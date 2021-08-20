@@ -1,0 +1,5 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00 10 LO3 no clue
