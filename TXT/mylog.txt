@@ -4,3 +4,5 @@
 
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 30 L00 GitHub and GitHub Pages related
+ZCZC W00 25 L00 SSH, git and stufs
+ZCZC W00 25 L00 a little reading assignment
