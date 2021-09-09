@@ -2,9 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 100 L02 OS ZOOM meetings
 ZCZC W00 30 L00 GitHub and GitHub Pages related
 ZCZC W00 25 L00 SSH, git and stufs
 ZCZC W00 25 L00 a little reading assignment
 ZCZC W00 60 L00 quiz prep
-ZCZC W01 100 L00 Zoom meetings related
+ZCZC W01 100 L00 OS Zoom meetings
+ZCZC W01 480 L00 Week01 assignments (Setup virtualbox, putty, winscp, ssh, git, etc)
+ZCZC W01 60 L00 OS Zoom meetings
