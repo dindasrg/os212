@@ -10,3 +10,6 @@ ZCZC W00 60 L00 quiz prep
 ZCZC W01 100 L00 OS Zoom meetings
 ZCZC W01 480 L00 Week01 assignments (Setup virtualbox, putty, winscp, ssh, git, etc)
 ZCZC W01 60 L00 OS Zoom meetings
+ZCZC W02 100 L00 OS Zoom meetings 
+ZCZC W02 180 L00 Week02 assignments (public key, SHASUM, etc)
+ZCZC W02 10 L00 OS zoom meetings
