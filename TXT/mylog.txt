@@ -13,3 +13,6 @@ ZCZC W01 60 L00 OS Zoom meetings
 ZCZC W02 100 L00 OS Zoom meetings 
 ZCZC W02 180 L00 Week02 assignments (public key, SHASUM, etc)
 ZCZC W02 10 L00 OS zoom meetings
+ZCZC W03 100 L00 OS Zoom meetings
+ZCZC W03 150 L00 Week03 assignments (virtual disk, etc)
+ZCZC W03 20 L00 OS Zoom meetings
