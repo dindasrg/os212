@@ -1,4 +1,4 @@
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [RANK](TXT/rank.txt) | [Github Repository](https://github.com/dindasrg/os212) 
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [RANK](TXT/myrank.txt) | [Github Repository](https://github.com/dindasrg/os212) 
 
 # Hai!
 
