@@ -16,3 +16,7 @@ ZCZC W02 10 L00 OS zoom meetings
 ZCZC W03 100 L00 OS Zoom meetings
 ZCZC W03 150 L00 Week03 assignments (virtual disk, etc)
 ZCZC W03 20 L00 OS Zoom meetings
+ZCZC W04 100 L00 OS Zoom meetings
+ZCZC W04 30 L00 OS forum discussion
+ZCZC W04 90 L00 Week04 assignments (install package, etc)
+ZCZC W04 90 L00 Reading asssignment/quiz related
