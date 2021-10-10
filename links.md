@@ -22,5 +22,5 @@ This video explains the slide from Operating System Concepts textbook chapter 15
 6. [Main Memory part 1](https://www.youtube.com/watch?v=Jy_teuaj7Ic) | [Main Memory part 2](https://www.youtube.com/watch?v=8Zw4gIqqZe0) | [Main Memory part 3](https://www.youtube.com/watch?v=8Zw4gIqqZe0)\
 These videos are operating system lectures about main memory based on Operating System Concepts (9th Edition) textbook. Extremely helpful in understanding the concepts discussed in the book.
 
-7. [Virtual Memory](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)\n
+7. [Virtual Memory](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)\
 Virtual Memory lecture for Introduction to Computer Architecture from Uppsala University. 
