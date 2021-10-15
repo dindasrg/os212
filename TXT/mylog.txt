@@ -24,3 +24,7 @@ ZCZC W05 100 L00 OS Zoom meetings
 ZCZC W05 30 L00 OS forum discussion
 ZCZC W05 150 L00 Week05 assignments (memory, etc)
 ZCZC w05 100 L00 Reading assignment/quiz related
+ZCZC W06 100 L00 OS Zoom meetings
+ZCZC W06 45 L00 Week06 assignments (fork, etc)
+ZCZC W06 45 L00 Reading assignment
+

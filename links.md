@@ -24,3 +24,9 @@ These videos are operating system lectures about main memory based on Operating 
 
 7. [Virtual Memory](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)\
 Virtual Memory lecture for Introduction to Computer Architecture from Uppsala University. 
+
+8. [Chapter 3: Processes - part 1](https://www.youtube.com/watch?v=yCBKeaNDzak) | [Chapter 3: Processes - part 2](https://www.youtube.com/watch?v=LU_3Frt2kM0)\
+Don't worry if you don't have the Silberschatz textbook, this course here covers the whole chapter 3 of it.
+
+9. [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk)\
+Discussed about threads, single-threaded process, multi-threaded process, and benefits of multi-threaded programming.
