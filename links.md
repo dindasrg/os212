@@ -36,3 +36,9 @@ Well explained Process Synchronization and Deadlocks concepts by  Hamid Mukhtar,
 
 11. [Process Synchronization - Problem 1](https://www.youtube.com/watch?v=WIj06NCxkWE&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=67) | [- Problem 2](https://www.youtube.com/watch?v=_yl0qAnsa_8&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=68) | [- problem 3](https://www.youtube.com/watch?v=A41_0uRnb2A&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=69) | [- problem 4](https://www.youtube.com/watch?v=fWL8HAIrgMw&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=70) | [- problem 5](https://www.youtube.com/watch?v=LlnBI2yjvlg&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=71)\
 Variation of solved problems on Process Synchronization from GATE.
+
+12. [CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&index=1)\
+A complete playlist about CPU Scheduling start from its introduction to problem example about CPU scheduling.
+
+13. [Linux forum](https://www.linuxquestions.org/)\
+One of GSGS websites that helpful to solved error.
