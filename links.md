@@ -42,3 +42,6 @@ A complete playlist about CPU Scheduling start from its introduction to problem 
 
 13. [Linux forum](https://www.linuxquestions.org/)\
 One of GSGS websites that helpful to solved error.
+
+14. [Mass-Storage 1](https://www.youtube.com/watch?v=Tn74umq7gWY) | [Mass-Storage 2](https://www.youtube.com/watch?v=7kGM08EPllw)\
+A lecture of chapter 10 of Silberschatz's Operating System textbook.

@@ -36,3 +36,8 @@ ZCZC W08 100 L00 OS Zoom meetings
 ZCZC W08 625 L00 Week08 assignments
 ZCZC W08 100 L00 Quiz related/reading assignment
 ZCZC W08 30 L00 OS Zoom meetings (thur)
+ZCZC W09 100 L00 OS Zoom meetings (mon)
+ZCZC W09 10 L00 OS Forum
+ZCZC W09 550 L00 Week09 assignments
+ZCZC W09 30 L00 OS Zoom meetings (thurs)
+ZCZC W09 100 L00 Quiz related/reading assignment
