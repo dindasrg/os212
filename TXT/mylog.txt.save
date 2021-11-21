@@ -1,0 +1,38 @@
+l# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00 100 L02 OS ZOOM meetings
+ZCZC W00 30 L00 GitHub and GitHub Pages related
+ZCZC W00 25 L00 SSH, git and stufs
+ZCZC W00 25 L00 a little reading assignment
+ZCZC W00 60 L00 quiz prep
+ZCZC W01 100 L00 OS Zoom meetings
+ZCZC W01 480 L00 Week01 assignments (Setup virtualbox, putty, winscp, ssh, git, etc)
+ZCZC W01 60 L00 OS Zoom meetings
+ZCZC W02 100 L00 OS Zoom meetings 
+ZCZC W02 180 L00 Week02 assignments (public key, SHASUM, etc)
+ZCZC W02 10 L00 OS zoom meetings
+ZCZC W03 100 L00 OS Zoom meetings
+ZCZC W03 150 L00 Week03 assignments (virtual disk, etc)
+ZCZC W03 20 L00 OS Zoom meetings
+ZCZC W04 100 L00 OS Zoom meetings
+ZCZC W04 30 L00 OS forum discussion
+ZCZC W04 90 L00 Week04 assignments (install package, etc)
+ZCZC W04 90 L00 Reading asssignment/quiz related
+ZCZC W05 100 L00 OS Zoom meetings
+ZCZC W05 30 L00 OS forum discussion
+ZCZC W05 150 L00 Week05 assignments (memory, etc)
+ZCZC w05 100 L00 Reading assignment/quiz related
+ZCZC W06 100 L00 OS Zoom meetings
+ZCZC W06 45 L00 Week06 assignments (fork, etc)
+ZCZC W06 45 L00 Reading assignment
+ZCZC W07 215 L00 Setup VM all over again due to accidentally spilled water on my laptop and have no OVA backup TAT
+ZCZC W07 140 L00 OS Zoom meetings (mon and wed)
+ZCZC W07 60 L00 Week07 assignments 
+ZCZC W07 35 L00 OS forum discussion
+ZCZC W07 60 L00 Reading assignment/quiz related
+ZCZC W08 100 L00 OS Zoom meetings
+ZCZC W08 625 L00 Week08 assignments
+ZCZC W08 100 L00 Quiz related/reading assignment
+ZCZC W08 30 L00 OS Zoom meetings (thur)
